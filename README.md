@@ -115,7 +115,7 @@ Three two-axis analog joysticks provide six analog inputs, allowing all six actu
 
 ## Wiring Diagram
 
-![Wiring Diagram](images/wiring_diagram.png)
+![wiring_diagram](image/wiring_diagram.png)
 
 ## Joysticks
 
