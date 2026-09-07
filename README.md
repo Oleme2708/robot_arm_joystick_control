@@ -31,9 +31,9 @@ The mechanical hand and forearm are based on the open-source **InMoov robotic ha
 
 ![Robotic Hand](image/demo.jpg)
 
-[![Arm Demo](image/Demo1.gif)](demo_vid/Demo_1.mp4)
+[![Arm Demo](image/Demo_1.gif)](demo_vid/Demo_1.mp4)
 
-[![Arm Demo](image/Demo2.gif)](demo_vid/Demo_2.mp4)
+[![Arm Demo](image/Demo_2.gif)](demo_vid/Demo_2.mp4)
 
 # Project Overview
 
